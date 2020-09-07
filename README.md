@@ -2,7 +2,7 @@
 
 Reproduzir a interface do LinkedIn e utilizando o Shimmer Effect como estratégia para melhorar a UX!
 
-Link do projeto: 
+Link do projeto: https://linked-in-shimmer-effect-reactjs.vercel.app/
 
 ## Para começar :arrow_forward:
 
