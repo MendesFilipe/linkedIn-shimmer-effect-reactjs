@@ -47,6 +47,6 @@ Há biblioteca de gestão de componentes, desenvolvida com o [storybook](https:/
 - [Jest](https://jestjs.io/) 
 - [Shimmer Effect](https://www.npmjs.com/package/react-shimmer-effect) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
